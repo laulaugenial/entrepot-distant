@@ -1,1 +1,2 @@
-e- Fichier Readme.md
+e- #Fichier README.md
+\initialisation du fichier
